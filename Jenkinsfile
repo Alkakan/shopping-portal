@@ -1,4 +1,4 @@
-~ pipeline{
+pipeline{
     agent any
 // uncomment the following lines by removing /* and */ to enable
    tools{
